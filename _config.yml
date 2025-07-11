@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 linkedin_username: jkmaeda
 tweeter_username: jkmaeda
 github_username: jkmaeda
-minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -63,33 +63,34 @@ author:
   avatar : "/assets/images/LinkedIn-profile.jpeg"
   bio    : "Dad, Brazilian-born Japanese, Melbourne-based, Computer Scientist."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://linkedin.com/in/jkmaeda
+    - label: "Credly"
+      icon: "fas fa-fw fa-credly"
+      url: "https://www.credly.com/users/jkmaeda"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jkmaeda"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@jkmaeda"
+      
+footer:
+  links:
+    - label: "X"
+      icon: "fab fa-fw fa-x-square"
+      url: "https://x.com/jkmaeda"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/jkmaeda"
+    - label: "Blog"
+      icon: "fab fa-fw fa-blog"
+      url: "https://jack-km.blogspot.com"
+
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/jkmaeda"
 
 defaults:
   # _posts
