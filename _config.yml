@@ -98,11 +98,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jkmaeda"
     - label: "Blog"
-      icon: "fab fa-fw fa-blog"
+      icon: "fas fa-fw fa-blog"
       url: "https://jack-km.blogspot.com"
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/jkmaeda"
+  
 
 defaults:
   # _posts
