@@ -78,7 +78,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jkmaeda
+      url: "https://linkedin.com/in/jkmaeda"
     - label: "Credly"
       icon: "fas fa-fw fa-credly"
       url: "https://www.credly.com/users/jkmaeda"
@@ -100,7 +100,6 @@ footer:
     - label: "Blog"
       icon: "fab fa-fw fa-blog"
       url: "https://jack-km.blogspot.com"
-
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/jkmaeda"
