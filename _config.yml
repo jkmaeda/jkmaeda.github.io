@@ -43,7 +43,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+#paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: AEST # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
