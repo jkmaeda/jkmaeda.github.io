@@ -92,7 +92,7 @@ author:
 footer:
   links:
     - label: "X"
-      icon: "fab fa-fw fa-x-square"
+      icon: "fab fa-fw fa-square-x-twitter"></i>"
       url: "https://x.com/jkmaeda"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
