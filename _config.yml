@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 linkedin_username: jkmaeda
 tweeter_username: jkmaeda
 github_username: jkmaeda
-minimal_mistakes_skin: air
+minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
