@@ -4,9 +4,6 @@ We're proud to partner with leading global organizations. Here are some of our v
 
 <div align="center" style="max-width: 150px;">
 
-## Agribusiness
-[![Mitsui & Co.](https://www.mitsui.com/jp/en/brand/assets/images/logo_en.png)](https://www.mitsui.com)  
-[![Louis Dreyfus Company](https://www.ldc.com/wp-content/uploads/2020/04/ldc-logo.png)](https://www.ldc.com)  
 
 ## Healthcare and Beuty
 [![Sanofi](https://www.sanofi.com/dam/jcr:4d382315-4169-4a2b-94b7-1d0e2a0c3488/logo-sanofi.png)](https://www.sanofi.com) 
@@ -27,10 +24,15 @@ We're proud to partner with leading global organizations. Here are some of our v
 [![BB Seguros](https://upload.wikimedia.org/wikipedia/commons/f/fb/Banco_do_Brasil_logo.svg)](https://www.bb.com.br)  
 [![Mapfre](https://www.mapfre.com.br/media/logo-mapfre.png)](https://www.mapfre.com.br)  
 [![IRB(RE)]()](https://www.irbre.com/en/)
+[![Bancor]()](https://www.bancor.com.ar/)
 
 ## Manufacturing
 [![Whirlpool](https://www.whirlpool.com/content/dam/global/logo/whirlpool-logo.png)](https://www.whirlpool.com)  
 [![Magnesita](https://www.magnesita.com/media/logo-magnesita.png)](https://www.magnesita.com)
+
+## Construction and Real Estate
+[![Gafisa]()](https://ri.gafisa.com.br/en/)
+[![Camargo Corrêa]()](https://construtoracamargocorrea.com.br/en_US/)
 
 ## Public Services and Education
 [![Australia Post]()](https://www.auspost.com.au)
@@ -38,6 +40,13 @@ We're proud to partner with leading global organizations. Here are some of our v
 [![Services Australia]()](https://www.servicesaustralia.gov.au/)
 [![IDP Education](https://upload.wikimedia.org/wikipedia/en/thumb/0/01/IDP_Education_Logo.svg/300px-IDP_Education_Logo.svg.png)](https://www.idp.com) 
 
+## Retail and FMCG
+[![7-Eleven]()](https://www.7eleven.com.au/)
+[![BRF]()](https://www.brf-global.com/en/)
+
+## Agribusiness
+[![Mitsui & Co.](https://www.mitsui.com/jp/en/brand/assets/images/logo_en.png)](https://www.mitsui.com)  
+[![Louis Dreyfus Company](https://www.ldc.com/wp-content/uploads/2020/04/ldc-logo.png)](https://www.ldc.com)  
 </div>
 
 ### Why They Chose Us
