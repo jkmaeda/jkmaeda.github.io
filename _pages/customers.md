@@ -5,8 +5,8 @@ I'm proud to have partnered with leading global organisations. Here are some of 
 <div align="center" style="max-width: 150px;">
 
 ## Healthcare and Beuty
-[![Natura&Co](https://www.natura.com.br/documents/20143/0/logo-natura.png)](https://www.natura.com.br) 
-[![Sanofi](https://www.sanofi.com/dam/jcr:4d382315-4169-4a2b-94b7-1d0e2a0c3488/logo-sanofi.png)](https://www.sanofi.com) 
+[![Natura&Co](https://upload.wikimedia.org/wikipedia/pt/c/cb/Natura_Logo.png)](https://www.natura.com.br) 
+[![Sanofi](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sanofi-2022.svg/330px-Sanofi-2022.svg.png)](https://www.sanofi.com) 
 [![Johnson&Johnson]()](https://www.jnj.com)
 [![EMS]()](https://ems.com.br/)
 [![Clinica Los Conde]()](https://www.clinicalascondes.cl/HOME)
